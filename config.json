@@ -1,0 +1,50 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+  },
+  "text": {
+    "more": "TEST",
+    "intro": "",
+    "title": "Topic Cluster X Innovationsfelder Brasilien"
+  },
+  "legend": {
+    "edgeLabel": "",
+    "colorLabel": "IF",
+    "nodeLabel": "TC_ID"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": "if",
+    "hoverBehavior": "dim"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": false,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 8,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "light",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 16
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.7,
+      "minEdgeSize": 0.3,
+      "minNodeSize": 3,
+      "maxNodeSize": 24
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
