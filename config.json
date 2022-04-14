@@ -7,12 +7,12 @@
   "text": {
     "more": "TEST",
     "intro": "",
-    "title": "Topic Cluster X Innovationsfelder Brasilien"
+    "title": "Topic Cluster & Innovationsfelder Brasilien"
   },
   "legend": {
     "edgeLabel": "",
-    "colorLabel": "IF",
-    "nodeLabel": "TC_ID"
+    "colorLabel": "Innovationsfeld",
+    "nodeLabel": "Topic Cluster ID"
   },
   "features": {
     "search": true,
@@ -34,7 +34,7 @@
       "defaultLabelHoverColor": "#fff",
       "fontStyle": "light",
       "hoverFontStyle": "bold",
-      "defaultLabelSize": 16
+      "defaultLabelSize": 18
     },
     "graphProperties": {
       "maxEdgeSize": 0.7,
